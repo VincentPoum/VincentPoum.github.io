@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Nous voici au pied du mur !
 
-You can use the [editor on GitHub](https://github.com/VincentPoum/VincentPoum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Cette page pense bête pour garder les instructions de base de Markdown, pour garder un lien direct à [l'édition de cette page](https://github.com/VincentPoum/VincentPoum.github.io/edit/master/index.md) .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Un lien vers [Jekyll](https://jekyllrb.com/) .
 
 ### Markdown
 
